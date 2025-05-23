@@ -5,3 +5,4 @@
   - php  
   - laravel
   - reactnative
+  - js
